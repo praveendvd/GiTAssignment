@@ -1,6 +1,6 @@
 3.1	Deserialization PoC References:
 
-1)	Admin, O., 2017. Exploiting Node.js deserialization bug for Remote Code Execution. OpSecX. URL https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/ (accessed 5.25.19).
+1)	Admin, O., 2017. Exploiting Node.js deserialization bug for Remote Code Execution. OpSecX. URL https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/(accessed 5.25.19).
 
 2)	Afsari, K., Eastman, C.M., Castro-Lacouture, D., 2017. JavaScript Object Notation (JSON) data serialization for IFC schema in web-based BIM data exchange. Automation in Construction 77, 24–51. https://doi.org/10.1016/j.autcon.2017.01.011
 
